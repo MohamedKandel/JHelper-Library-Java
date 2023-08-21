@@ -38,6 +38,7 @@ open method takes six parameters:-<br>
 * your working class
 * path of JFrame icon and its extension
 * next three parameter is the RGB code for your form background color<br>
+
 3- if you want to insert, update, delete from database you can use this example of code:-
 ```
 String sql = "write your sql query (insert, update, delete)";
